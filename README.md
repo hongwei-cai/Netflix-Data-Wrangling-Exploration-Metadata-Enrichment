@@ -43,4 +43,4 @@
 
 ---
 
-Dataset: Netflix Movies and TV Shows, Version 4, accessed from https://www.kaggle.com/datasets/shivamb/netflix-shows/versions/4/data
+Dataset: Netflix Movies and TV Shows, Version 5, accessed from https://www.kaggle.com/datasets/shivamb/netflix-shows
