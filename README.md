@@ -90,7 +90,6 @@ Example visualizations:
 - **Original EDA and visualization code:** [Josh Swords](https://www.kaggle.com/code/joshuaswords/netflix-data-visualization/notebook)
 - **Timeline visualization:** [Subin An](https://www.kaggle.com/code/subinium/awesome-visualization-with-titanic-dataset)
 - **Age rating mapping:** [AndresHG](https://www.kaggle.com/code/andreshg/eda-beginner-to-expert-plotly)
-- **All other code:** Authored and adapted by project contributors.
 
 ---
 
@@ -98,7 +97,7 @@ Example visualizations:
 
 1. Install requirements:  
    ```sh
-   pip install pandas numpy matplotlib seaborn plotly scikit-learn nltk textblob beautifulsoup4 imdbpy
+   pip install pandas numpy matplotlib seaborn plotly scikit-learn nltk textblob
    ```
 2. Run notebooks in order:
    - `data_cleaning_and_preprocessing.ipynb`
